@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`modules/createDOMProps includes "rel" values for "a" elements (to securely open external links) 1`] = `" noopener noreferrer"`;
+
+exports[`modules/createDOMProps includes base reset style for browser-styled elements 1`] = `"css-reset-4rbku5"`;
+
+exports[`modules/createDOMProps includes base reset style for browser-styled elements 2`] = `"css-reset-4rbku5"`;
+
+exports[`modules/createDOMProps includes base reset style for browser-styled elements 3`] = `"css-reset-4rbku5"`;
+
+exports[`modules/createDOMProps includes base reset style for browser-styled elements 4`] = `"css-reset-4rbku5"`;
+
+exports[`modules/createDOMProps includes cursor style for pressable roles 1`] = `"css-cursor-18t94o4"`;
+
+exports[`modules/createDOMProps includes cursor style for pressable roles 2`] = `"css-cursor-18t94o4"`;
